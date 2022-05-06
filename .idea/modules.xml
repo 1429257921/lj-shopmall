@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lj-modules/lj-admin/lj-admin.iml" filepath="$PROJECT_DIR$/lj-modules/lj-admin/lj-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-dubbo-api/lj-admin-api/lj-admin-api.iml" filepath="$PROJECT_DIR$/lj-dubbo-api/lj-admin-api/lj-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-common/lj-common.iml" filepath="$PROJECT_DIR$/lj-common/lj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-common/lj-common-core/lj-common-core.iml" filepath="$PROJECT_DIR$/lj-common/lj-common-core/lj-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-common/lj-common-log/lj-common-log.iml" filepath="$PROJECT_DIR$/lj-common/lj-common-log/lj-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-common/lj-common-redis/lj-common-redis.iml" filepath="$PROJECT_DIR$/lj-common/lj-common-redis/lj-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-dubbo-api/lj-dubbo-api.iml" filepath="$PROJECT_DIR$/lj-dubbo-api/lj-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-modules/lj-modules.iml" filepath="$PROJECT_DIR$/lj-modules/lj-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lj-shopmall.iml" filepath="$PROJECT_DIR$/lj-shopmall.iml" />
+    </modules>
+  </component>
+</project>

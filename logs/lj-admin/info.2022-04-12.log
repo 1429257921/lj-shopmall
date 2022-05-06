@@ -1,0 +1,11 @@
+10:33:31.140 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+10:33:31.189 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 7940 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+10:33:31.191 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+10:33:32.428 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+10:33:32.639 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+10:33:32.641 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.

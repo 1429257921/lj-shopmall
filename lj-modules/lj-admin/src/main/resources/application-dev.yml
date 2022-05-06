@@ -1,0 +1,13 @@
+# Spring
+spring:
+  cloud:
+    nacos:
+      discovery:
+        # 服务注册地址
+        server-addr:
+      config:
+        # 配置中心地址
+        server-addr:
+  main:
+    allow-bean-definition-overriding: true
+

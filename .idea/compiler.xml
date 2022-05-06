@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lj-common-core" />
+        <module name="lj-admin" />
+        <module name="lj-admin-api" />
+        <module name="lj-common-log" />
+        <module name="lj-common-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lj-admin" target="1.8" />
+      <module name="lj-admin-api" target="1.8" />
+      <module name="lj-common" target="1.8" />
+      <module name="lj-common-core" target="1.8" />
+      <module name="lj-common-log" target="1.8" />
+      <module name="lj-common-redis" target="1.8" />
+      <module name="lj-dubbo-api" target="1.8" />
+      <module name="lj-modules" target="1.8" />
+      <module name="lj-shopmall" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lj-admin" options="" />
+      <module name="lj-common" options="" />
+      <module name="lj-common-core" options="" />
+      <module name="lj-modules" options="" />
+    </option>
+  </component>
+</project>

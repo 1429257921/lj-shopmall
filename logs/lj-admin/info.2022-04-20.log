@@ -1,0 +1,1048 @@
+14:12:57.293 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:12:57.381 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:12:57.384 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23192 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:12:57.385 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+14:12:59.383 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:13:00.165 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:13:00.166 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:13:00.166 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:13:00.311 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:13:00.538 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:13:00.542 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:13:00.600 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:18:38.604 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:18:38.681 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:18:38.686 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 21356 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:18:38.687 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+14:18:40.403 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:18:40.964 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:18:40.964 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:18:40.965 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:18:41.077 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:18:41.266 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:18:41.269 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:18:41.317 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:20:28.763 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:20:28.855 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23512 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:20:28.855 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:20:28.856 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+14:20:30.597 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:20:31.150 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:20:31.150 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:20:31.151 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:20:31.257 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:20:31.443 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:20:31.446 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:20:31.495 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:20:50.426 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:20:50.512 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:20:50.519 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 18372 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:20:50.520 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+14:20:52.625 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:20:53.228 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:20:53.228 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:20:53.229 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:20:53.352 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:20:53.572 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:20:53.575 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:20:53.631 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:21:04.529 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:21:04.599 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:21:04.608 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23488 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:21:04.609 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,640] - No active profile set, falling back to 1 default profile: "default"
+14:21:06.416 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:21:07.185 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:21:07.186 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:21:07.186 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:21:07.340 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:21:07.579 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:21:07.583 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:21:07.641 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:22:50.515 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:22:50.591 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:22:50.609 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 20120 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:22:50.610 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:22:52.459 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:22:53.080 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:22:53.080 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:22:53.081 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:22:53.202 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:22:53.405 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:22:53.408 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:22:55.339 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:47:27.002 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:47:27.086 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:47:27.104 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 18988 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:47:27.105 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:47:28.894 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:47:29.461 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:47:29.461 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:47:29.462 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:47:29.582 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:47:29.774 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:47:29.777 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:47:30.925 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:47:30.986 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:51:15.621 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:51:15.691 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:51:15.708 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23720 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:51:15.709 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:51:17.499 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:51:18.063 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:51:18.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:51:18.064 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:51:18.183 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:51:18.378 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:51:18.381 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:51:19.586 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:51:19.651 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:53:16.082 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:53:16.130 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:53:16.140 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 15992 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:53:16.141 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:53:17.251 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:53:17.613 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:53:17.613 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:53:17.613 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:53:17.685 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:53:17.804 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:53:17.806 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:53:18.568 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:53:18.611 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:54:35.029 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:54:35.087 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:54:35.101 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17624 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:54:35.102 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:55:21.764 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:55:21.829 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:55:21.839 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 21968 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:55:21.840 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:55:23.221 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:55:23.662 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:55:23.662 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:55:23.663 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:55:23.751 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:55:23.896 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:55:23.898 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:55:24.789 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:55:24.837 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:56:52.986 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:56:53.029 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:56:53.042 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 5464 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:56:53.042 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:56:54.374 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:56:54.905 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:56:54.905 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:56:54.906 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:56:55.008 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:56:55.205 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:56:55.207 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:56:56.233 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:56:56.286 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+14:57:48.089 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:57:48.141 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+14:57:48.152 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17116 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+14:57:48.152 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+14:57:49.494 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+14:57:49.940 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+14:57:49.941 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:57:49.941 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+14:57:50.030 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:57:50.176 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+14:57:50.179 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+14:57:51.097 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+14:57:51.145 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:04:15.276 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:04:15.341 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+15:04:15.354 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 19108 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:04:15.354 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+15:04:16.846 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:04:17.329 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:04:17.330 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:04:17.330 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+15:04:17.426 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:04:17.588 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+15:04:17.590 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+15:04:18.547 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:04:18.601 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:04:40.342 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:04:40.405 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+15:04:40.417 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 25480 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:04:40.418 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+15:04:41.806 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:04:42.331 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:04:42.331 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:04:42.332 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+15:04:42.428 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:04:42.584 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+15:04:42.587 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+15:04:43.496 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:04:44.362 [main] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+15:04:54.729 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+15:05:03.784 [main] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+15:05:03.786 [main] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+15:05:13.065 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-9202"]
+15:05:13.066 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:05:13.069 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-9202"]
+15:05:13.071 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-9202"]
+15:05:59.747 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,64] - 
+
+ :: Dubbo Spring Boot (v3.0.6) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v3.0.6) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:05:59.791 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.2.Final
+15:05:59.802 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 12412 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:05:59.803 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,646] - The following 1 profile is active: "dev"
+15:06:00.792 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,304] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:06:01.153 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:06:01.153 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:06:01.153 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.58]
+15:06:01.225 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:06:01.350 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,101] - loading dubbo config beans ...
+15:06:01.352 [main] INFO  o.a.d.c.s.c.DubboConfigBeanInitializer - [prepareDubboConfigBeans,126] - dubbo config beans are loaded.
+15:06:02.085 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:06:04.824 [main] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+15:06:15.051 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+15:06:24.091 [main] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+15:06:24.094 [main] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+15:06:33.365 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-9202"]
+15:06:33.365 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:06:33.368 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-9202"]
+15:06:33.370 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-9202"]
+15:45:39.475 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:45:39.482 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:45:39.539 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:45:39.558 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 22240 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:45:39.559 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:45:40.284 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:45:40.285 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:45:40.286 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:45:40.287 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:45:40.288 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:45:40.430 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:45:40.430 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:45:40.438 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:45:41.066 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:45:41.066 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:45:41.067 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:45:41.172 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:45:42.211 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:45:42.264 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:45:42.266 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:46:33.252 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:46:33.257 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:46:33.308 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:46:33.324 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 27256 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:46:33.324 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:46:34.018 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:46:34.019 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:46:34.019 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:46:34.020 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:46:34.021 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:46:34.154 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:46:34.154 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:46:34.162 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:46:34.800 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:46:34.801 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:46:34.801 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:46:34.913 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:46:36.007 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:46:36.061 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:46:36.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:48:24.101 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:48:24.104 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:48:24.146 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:48:24.155 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 11384 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:48:24.156 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:48:24.650 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:48:24.651 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:48:24.651 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:48:24.652 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:48:24.652 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:48:24.750 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:48:24.751 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:48:24.757 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:48:25.203 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:48:25.204 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:48:25.204 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:48:25.285 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:48:26.358 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:48:26.412 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:48:26.414 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:49:14.889 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:49:14.894 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:49:14.946 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:49:14.963 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 25968 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:49:14.964 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:49:15.615 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:49:15.615 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:49:15.616 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:49:15.617 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:49:15.618 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:49:15.743 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:49:15.744 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:49:15.752 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:49:16.349 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:49:16.349 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:49:16.349 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:49:16.443 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:49:17.494 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:49:17.548 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:49:17.550 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:51:32.660 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:51:32.665 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:51:32.724 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:51:32.745 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 16548 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:51:32.746 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:51:33.539 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:51:33.540 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:51:33.540 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:51:33.541 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:51:33.542 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:51:33.678 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:51:33.679 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:51:33.686 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:51:34.282 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:51:34.283 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:51:34.283 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:51:34.388 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:51:35.662 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:51:35.723 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:51:35.726 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:51:56.783 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:51:56.787 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:51:56.834 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:51:56.850 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 27028 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:51:56.850 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:51:57.550 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:51:57.550 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:51:57.551 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:51:57.552 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:51:57.552 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:51:57.677 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:51:57.677 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:51:57.687 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:51:58.252 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:51:58.253 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:51:58.253 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:51:58.351 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:51:59.329 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:51:59.379 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:51:59.381 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+15:59:04.559 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:59:04.564 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:59:04.627 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:59:04.648 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 27124 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+15:59:04.649 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:59:05.457 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:59:05.458 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:59:05.459 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:59:05.460 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:59:05.461 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:59:05.621 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:59:05.621 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:59:05.632 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:59:06.302 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+15:59:06.303 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:59:06.303 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:59:06.421 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:59:07.571 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+15:59:07.632 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+15:59:07.634 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:04:45.786 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:04:45.790 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:04:45.832 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:04:45.844 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23688 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:04:45.844 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:04:46.364 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:04:46.364 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:04:46.365 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:04:46.366 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:04:46.366 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:04:46.464 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:04:46.464 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:04:46.470 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:04:46.914 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:04:46.915 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:04:46.915 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:04:46.997 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:04:47.818 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:04:47.866 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:04:47.868 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:06:16.753 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:06:16.757 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:06:16.796 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:06:16.808 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 18960 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:06:16.809 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:06:17.334 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:06:17.335 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:06:17.335 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:06:17.336 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:06:17.337 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:06:17.432 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:06:17.432 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:06:17.437 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:06:17.884 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:06:17.885 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:06:17.885 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:06:17.968 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:06:18.840 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:06:18.913 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:06:18.914 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:11:11.432 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:11:11.439 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:11:11.527 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:11:11.553 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 2868 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:11:11.553 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:11:12.576 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:11:12.577 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:11:12.578 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:11:12.579 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:11:12.580 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:11:12.752 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:11:12.752 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:11:12.762 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:11:13.544 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:11:13.545 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:11:13.546 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:11:13.683 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:11:15.045 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:11:15.436 [main] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+16:11:17.405 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:11:17.665 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+16:11:17.928 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+16:11:18.551 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 10.171 seconds (JVM running for 12.19)
+16:13:58.459 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:13:58.466 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:13:58.538 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:13:58.564 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 10072 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:13:58.565 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:13:59.838 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:13:59.839 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:13:59.841 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:13:59.843 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:13:59.846 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:14:00.171 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:14:00.171 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:14:00.187 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:14:01.289 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:14:01.291 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:14:01.291 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:14:01.444 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:14:02.880 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:14:03.243 [main] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+16:14:05.319 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:14:05.542 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+16:14:05.571 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+16:14:06.066 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 10.076 seconds (JVM running for 12.396)
+16:14:50.768 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:14:50.774 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:14:50.844 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:14:50.866 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 15980 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:14:50.867 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:14:51.812 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:14:51.813 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:14:51.813 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:14:51.814 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:14:51.815 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:14:51.965 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:14:51.966 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:14:51.977 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:14:52.706 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:14:52.707 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:14:52.707 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:14:52.821 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:14:54.137 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:14:54.201 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:14:54.204 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:21:48.964 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:21:48.971 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:21:49.044 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:21:49.078 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 14172 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:21:49.079 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:21:50.201 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:21:50.203 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:21:50.203 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:21:50.205 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:21:50.207 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:21:50.427 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:21:50.427 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:21:50.439 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:21:51.416 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:21:51.418 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:21:51.418 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:21:51.629 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:21:53.342 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:21:53.444 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:21:53.447 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:22:50.799 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:22:50.806 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:22:50.884 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:22:50.932 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 27036 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:22:50.933 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:26:21.984 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:26:21.985 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:26:21.986 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:26:21.987 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:26:21.988 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:26:22.168 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:26:22.169 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:26:22.179 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:26:23.108 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:26:23.109 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:26:23.109 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:26:23.402 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:26:25.106 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:26:25.190 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:26:25.193 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:30:24.296 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:30:24.305 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:30:24.403 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:30:24.431 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 24564 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:30:24.432 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:30:25.570 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:30:25.572 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:30:25.573 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:30:25.575 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:30:25.576 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:30:25.826 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:30:25.826 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:30:25.841 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:30:26.803 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:30:26.804 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:30:26.805 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:30:26.974 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:30:28.464 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:30:28.538 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:30:28.541 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:31:55.075 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:31:55.081 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:31:55.158 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:31:55.181 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17012 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:31:55.182 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:31:56.153 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:31:56.154 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:31:56.155 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:31:56.156 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:31:56.158 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:31:56.350 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:31:56.350 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:31:56.361 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:31:57.235 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:31:57.237 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:31:57.237 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:31:57.380 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:31:59.031 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:31:59.135 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:31:59.139 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:34:16.465 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:34:16.472 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:34:16.547 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:34:16.567 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 23348 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:34:16.568 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:34:17.669 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:34:17.671 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:34:17.672 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:34:17.674 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:34:17.675 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:34:17.893 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:34:17.893 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:34:17.905 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:34:18.808 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:34:18.809 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:34:18.809 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:34:19.039 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:34:20.699 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:34:20.779 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:34:20.782 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:37:07.154 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:37:07.162 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:37:07.259 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:37:07.277 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17364 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:37:07.278 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:37:08.287 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:37:08.288 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:37:08.289 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:37:08.290 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:37:08.291 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:37:08.471 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:37:08.472 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:37:08.482 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:37:09.367 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:37:09.368 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:37:09.368 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:37:09.494 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:37:10.835 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:37:10.899 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:37:10.902 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:40:51.802 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:40:51.808 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:40:51.887 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:40:51.907 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17116 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:40:51.908 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:40:52.922 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:40:52.923 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:40:52.924 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:40:52.925 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:40:52.926 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:40:53.102 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:40:53.102 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:40:53.113 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:40:54.036 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:40:54.037 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:40:54.038 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:40:54.197 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:40:55.721 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:40:55.800 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:40:55.804 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:43:07.903 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:43:07.910 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:43:07.990 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:43:08.008 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 24832 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:43:08.008 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:43:09.107 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:43:09.109 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:43:09.111 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:43:09.113 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:43:09.115 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:43:09.356 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:43:09.356 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:43:09.372 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:43:10.268 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:43:10.269 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:43:10.269 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:43:10.396 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:43:11.886 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:43:11.959 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:43:11.962 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:43:32.414 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:43:32.421 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:43:32.492 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:43:32.509 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 22724 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:43:32.510 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:43:33.668 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:43:33.669 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:43:33.670 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:43:33.672 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:43:33.674 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:43:33.912 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:43:33.912 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:43:33.928 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:43:35.004 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:43:35.005 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:43:35.005 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:43:35.164 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:43:36.636 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+16:43:36.701 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:43:36.704 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:52:12.430 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:52:12.438 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:52:12.517 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:52:12.536 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 25724 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:52:12.537 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:52:13.640 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:52:13.641 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:52:13.642 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:52:13.643 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:52:13.645 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:52:13.840 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:52:13.841 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:52:13.862 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:52:14.721 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:52:14.723 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:52:14.723 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:52:14.921 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:52:18.519 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:52:18.580 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:52:18.583 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+16:54:45.810 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:54:45.816 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:54:45.895 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:54:45.911 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 17936 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
+16:54:45.912 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:54:46.989 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:54:46.991 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:54:46.992 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:54:46.993 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:54:46.994 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:54:47.221 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:54:47.221 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:54:47.234 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:54:48.150 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+16:54:48.151 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:54:48.152 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:54:48.387 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:54:52.276 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:54:52.335 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+16:54:52.338 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:06:02.204 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+17:06:02.211 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:06:02.283 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:06:02.858 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+17:06:03.524 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:06:12.696 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:06:13.149 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+17:06:13.150 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+17:06:13.150 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+17:06:13.151 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+17:06:13.151 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+17:06:13.268 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+17:06:13.269 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+17:06:13.275 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+17:06:14.002 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:06:14.004 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:06:14.004 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:06:14.190 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:06:17.932 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+17:06:17.997 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+17:06:17.998 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:09:06.723 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+17:09:06.734 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:09:06.823 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:09:07.580 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+17:09:08.367 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:09:17.590 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:09:18.035 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+17:09:18.035 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+17:09:18.036 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+17:09:18.037 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+17:09:18.037 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+17:09:18.140 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+17:09:18.141 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+17:09:18.145 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+17:09:19.062 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:09:19.063 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:09:19.063 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:09:19.226 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:09:23.921 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+17:09:24.010 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+17:09:24.012 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:10:36.797 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+17:10:36.804 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:10:36.872 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:10:37.418 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+17:10:38.021 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:10:47.190 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:10:47.662 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+17:10:47.662 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+17:10:47.663 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+17:10:47.664 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+17:10:47.664 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+17:10:47.794 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+17:10:47.795 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+17:10:47.802 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+17:10:48.735 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:10:48.736 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:10:48.737 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:10:48.888 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:10:52.239 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" qosEnable="false" hostname="g的联想电脑" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+17:10:52.303 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+17:10:52.304 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:13:38.378 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+17:13:38.385 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:13:38.461 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:13:39.121 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+17:13:39.820 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+17:13:49.028 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:13:49.512 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+17:13:49.512 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+17:13:49.513 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+17:13:49.514 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+17:13:49.514 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+17:13:49.637 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+17:13:49.637 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+17:13:49.644 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+17:13:50.470 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:13:50.471 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:13:50.471 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:13:50.613 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:13:54.813 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+17:13:54.892 [main] INFO  o.a.d.c.s.b.f.a.ReferenceAnnotationBeanPostProcessor - [destroy,354] - class org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor was destroying!
+17:13:54.893 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:17:45.984 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:17:57.336 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:17:58.656 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:17:58.657 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:17:58.658 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:17:58.987 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:18:02.727 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:31:04.255 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:31:05.916 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:31:07.653 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:31:07.654 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:31:07.655 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:31:07.958 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:31:10.476 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:33:04.283 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:33:05.430 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:33:06.566 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:33:06.567 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:33:06.567 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:33:06.882 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:33:09.218 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:33:29.383 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:33:30.312 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:33:31.233 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:33:31.234 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:33:31.234 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:33:31.442 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:33:33.511 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+17:33:33.779 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+17:33:34.192 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.052 seconds (JVM running for 7.521)
+17:33:34.199 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+17:33:34.199 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+17:33:34.200 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+17:35:29.201 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:35:30.988 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:35:32.423 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:35:32.424 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:35:32.424 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:35:32.671 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:35:35.170 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+17:35:35.199 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+17:35:35.587 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.926 seconds (JVM running for 9.661)
+17:35:35.592 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+17:35:35.592 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+17:35:35.593 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+17:36:49.531 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:36:50.606 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:36:51.609 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:36:51.609 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:36:51.609 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:36:51.814 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:36:54.372 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+17:36:54.397 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+17:36:54.733 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.586 seconds (JVM running for 8.525)
+17:36:54.737 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+17:36:54.738 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+17:36:54.738 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+17:37:55.662 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:37:56.541 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: dev
+17:37:57.471 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:37:57.472 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:37:57.472 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:37:57.670 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:37:59.580 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:38:30.073 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+17:38:31.319 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+17:38:32.466 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9202"]
+17:38:32.467 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:38:32.467 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+17:38:32.708 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:38:35.334 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9202"]
+17:38:35.358 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.110:9202 register finished
+17:38:35.696 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.085 seconds (JVM running for 7.943)
+17:38:35.700 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+17:38:35.700 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+17:38:35.701 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
