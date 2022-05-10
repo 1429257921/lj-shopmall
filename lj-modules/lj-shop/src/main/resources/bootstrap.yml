@@ -1,14 +1,14 @@
 server:
-  port: 9220
+  port: 9221
   servlet:
-    context-path: /lj-admin
+    context-path: /lj-shop
 
 spring:
   profiles:
     active: local
   application:
     # 应用名称
-    name: lj-admin
+    name: lj-shop
   cloud:
     stream:
       rocketmq:

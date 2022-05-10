@@ -1,5 +1,5 @@
 ## 平台简介 
-佳禾科技数安云链平台
+辣鸡商城
 
 ## 技术选型
 ### 1、系统环境
@@ -20,20 +20,14 @@
 
 ## 系统模块
 ```
-com.jiahe     
-├── jiahe-common          // 通用模块
-│       └── jiahe-common-redis                        // 缓存服务
-│       └── jiahe-ylq-common-core                     // 通用服务
-│       └── jiahe-ylq-common-security                 // 安全拓展服务
-├── jiahe-modules         // 业务模块
-│       └── jiahe-signature-mobile                    // 链签署移动端模块 [9206]
-│       └── jiahe-signature-pc                        // 链签署PC端模块 [9205]
-│       └── jiahe-ylq-bank                            // 银行对接模块 [9213]
-│       └── jiahe-ylq-datasource                      // 链签署数据库模块 [9210]
-│       └── jiahe-ylq-idao                            // 链签署接口模块
-│       └── jiahe-ylq-payment                         // 链支付模块 [9211]
-│       └── jiahe-ylq-gen                             // 代码生成模块 
-│       └── jiahe-ylq-file                            // 文件系统模块 [9215]
-│       └── jiahe-ylq-file-api                        // 文件系统接口模块
-├──pom.xml                // 公共依赖
+com.lj     
+├── li-common          // 通用模块
+│       └── lj-common-core                     // 通用服务
+│       └── lj-common-log                      // 安全拓展服务
+│       └── lj-common-redis                    // 缓存服务
+├── lj-modules         // 业务模块
+│       └── lj-admin                           // 链签署移动端模块 [9206]
+│       └── lj-gen                             // 链签署PC端模块 [9205]
+│       └── lj-shop                            // 银行对接模块 [9213]
+├──pom.xml             // 公共依赖
 ```

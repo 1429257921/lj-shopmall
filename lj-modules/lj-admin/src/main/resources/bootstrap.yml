@@ -10,6 +10,20 @@ spring:
     # 应用名称
     name: lj-admin
   cloud:
+    stream:
+      rocketmq:
+        binder:
+          name-server: 192.168.112.132:9876
+      bindings:
+        sms-in-0:
+          destination: test-topi
+          content-type: text/plain
+          group: test-group
+        sms-out-0:
+          destination: test-topi
+          content-type: text/plain
+          group: test-group
+
     nacos:
       discovery:
         # 服务注册地址
