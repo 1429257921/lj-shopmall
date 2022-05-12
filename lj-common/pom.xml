@@ -16,6 +16,7 @@
         <module>lj-common-core</module>
         <module>lj-common-redis</module>
         <module>lj-common-log</module>
+        <module>lj-common-rocketmq</module>
     </modules>
 
 </project>

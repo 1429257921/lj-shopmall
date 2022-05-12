@@ -10,7 +10,4 @@ public class MessageConstant {
 
 	public static final String SMS_MESSAGE_OUTPUT = "";
 
-	public void test() {
-
-	}
 }

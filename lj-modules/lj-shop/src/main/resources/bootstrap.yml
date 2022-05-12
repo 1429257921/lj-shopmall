@@ -15,14 +15,13 @@ spring:
         binder:
           name-server: 192.168.112.132:9876
       bindings:
-        sms-in-0:
-          destination: test-topi
-          content-type: text/plain
-          group: test-group
         sms-out-0:
-          destination: test-topi
+          destination: sms-topic
           content-type: text/plain
-          group: test-group
+        sms-in-0:
+          destination: sms-topic
+          content-type: text/plain
+          group: sms-group1
 
     nacos:
       discovery:

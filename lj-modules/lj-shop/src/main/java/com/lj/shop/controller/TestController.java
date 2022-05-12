@@ -2,6 +2,7 @@ package com.lj.shop.controller;
 
 import com.lj.shop.constants.MessageConstant;
 import com.lj.shop.service.TestService;
+import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.function.StreamBridge;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,22 +14,20 @@ import org.springframework.web.bind.annotation.RestController;
  * @author gzc
  * @since 2022-5-9 14:26
  **/
+@AllArgsConstructor
 @RestController
 @RequestMapping("/test/")
 public class TestController {
 
-	@Autowired
-	private StreamBridge streamBridge;
+	private final StreamBridge streamBridge;
+
+	private final TestService testService;
 
 	@RequestMapping("send1")
 	public String test1() {
-		boolean send = streamBridge.send(MessageConstant.SMS_MESSAGE_OUTPUT, "测试一下吧");
-		return send ? "true" : "false";
+		boolean send = streamBridge.send("sms-out-0", "{\"id\":\"abc123\"}");
+		return send ? "发送成功" : "发送失败";
 	}
-
-
-	@Autowired
-	private TestService testService;
 
 	@RequestMapping("test2")
 	public void test2() {

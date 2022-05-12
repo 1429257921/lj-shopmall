@@ -20,7 +20,7 @@
         <spring-cloud-alibaba.version>2021.0.1.0</spring-cloud-alibaba.version>
         <apache-dubbo.version>2.7.15</apache-dubbo.version>
         <seata.version>1.4.2</seata.version>
-<!--        <rocketmq.version>4.9.2</rocketmq.version>-->
+        <!--        <rocketmq.version>4.9.2</rocketmq.version>-->
         <bootstrap.version>3.1.1</bootstrap.version>
         <spring-boot.mybatis-plus.version>3.5.1</spring-boot.mybatis-plus.version>
         <tobato.version>1.27.2</tobato.version>
@@ -31,6 +31,22 @@
         <hutool-version>5.7.22</hutool-version>
         <mysql-connector-version>8.0.28</mysql-connector-version>
         <redisson.version>3.16.0</redisson.version>
+        <lombok.version>1.18.24</lombok.version>
+        <junit.version>4.13.1</junit.version>
+
+        <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
+        <maven-compiler-plugin.version>2.6.7</maven-compiler-plugin.version>
+        <maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version>
+
+        <docker.image.prefix>registry.aliyuncs.com/linhuatest</docker.image.prefix>
+        <!-- 推荐使用Harbor -->
+        <docker-maven-plugin.version>1.2.2</docker-maven-plugin.version>
+        <sonar.exclusions>lj-admin/**/*, lj-common-core/**/*</sonar.exclusions>
+        <docker.baseImage>openjdk:8-jre-alpine</docker.baseImage>
+        <docker.volumes>/tmp</docker.volumes>
+        <docker.image.prefix>192.168.3.6:8080/matecloud</docker.image.prefix>
+        <docker.java.security.egd>-Djava.security.egd=file:/dev/./urandom</docker.java.security.egd>
+        <docker.java.opts>-Xms128m -Xmx128m</docker.java.opts>
     </properties>
 
     <dependencyManagement>
@@ -186,12 +202,6 @@
                 <version>${seata.version}</version>
             </dependency>
 
-            <!-- RocketMQ消息队列-->
-            <!--            <dependency>-->
-            <!--                <groupId>org.apache.rocketmq</groupId>-->
-            <!--                <artifactId>rocketmq-client</artifactId>-->
-            <!--                <version>${rocketmq.version}</version>-->
-            <!--            </dependency>-->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-bootstrap</artifactId>
@@ -202,6 +212,22 @@
                 <groupId>com.lj</groupId>
                 <artifactId>lj-common-core</artifactId>
                 <version>${lj.version}</version>
+            </dependency>
+
+            <!-- lombok -->
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+                <!--                <scope>provided</scope>-->
+            </dependency>
+
+            <!-- junit test -->
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.version}</version>
+                <scope>test</scope>
             </dependency>
 
         </dependencies>
@@ -227,6 +253,81 @@
                 </configuration>
             </plugin>
         </plugins>
+
+        <!--        <resources>-->
+        <!--            <resource>-->
+        <!--                <directory>src/main/resources</directory>-->
+        <!--            </resource>-->
+        <!--            <resource>-->
+        <!--                <directory>src/main/java</directory>-->
+        <!--                <includes>-->
+        <!--                    <include>**/*.xml</include>-->
+        <!--                </includes>-->
+        <!--            </resource>-->
+        <!--        </resources>-->
+
+        <!--        <pluginManagement>-->
+        <!--            <plugins>-->
+        <!--                <plugin>-->
+        <!--                    <groupId>org.springframework.boot</groupId>-->
+        <!--                    <artifactId>spring-boot-maven-plugin</artifactId>-->
+        <!--                    <version>${maven-compiler-plugin.version}</version>-->
+        <!--                    <configuration>-->
+        <!--                        <fork>true</fork>-->
+        <!--                        <finalName>${project.build.finalName}</finalName>-->
+        <!--                    </configuration>-->
+        <!--                    <executions>-->
+        <!--                        <execution>-->
+        <!--                            <goals>-->
+        <!--                                <goal>repackage</goal>-->
+        <!--                            </goals>-->
+        <!--                        </execution>-->
+        <!--                    </executions>-->
+        <!--                </plugin>-->
+        <!--                &lt;!&ndash; docker插件 &ndash;&gt;-->
+        <!--                <plugin>-->
+        <!--                    <groupId>com.spotify</groupId>-->
+        <!--                    <artifactId>docker-maven-plugin</artifactId>-->
+        <!--                    <version>1.2.2</version>-->
+        <!--                    <configuration>-->
+        <!--                        <imageName>${docker.image.prefix}/${project.artifactId}</imageName>-->
+        <!--                        &lt;!&ndash;docker文件所在的目录&ndash;&gt;-->
+        <!--                        <dockerDirectory>src/main/docker</dockerDirectory>-->
+        <!--                        <resources>-->
+        <!--                            <resource>-->
+        <!--                                <targetPath>/</targetPath>-->
+        <!--                                <directory>${project.build.directory}</directory>-->
+        <!--                                <include>${project.build.finalName}.jar</include>-->
+        <!--                            </resource>-->
+        <!--                        </resources>-->
+        <!--                    </configuration>-->
+        <!--                </plugin>-->
+        <!--            </plugins>-->
+        <!--        </pluginManagement>-->
+
+        <!--        <plugins>-->
+        <!--            <plugin>-->
+        <!--                <groupId>com.spotify</groupId>-->
+        <!--                <artifactId>docker-maven-plugin</artifactId>-->
+        <!--                <version>${docker-maven-plugin.version}</version>-->
+        <!--            </plugin>-->
+        <!--            <plugin>-->
+        <!--                <groupId>org.springframework.boot</groupId>-->
+        <!--                <artifactId>spring-boot-maven-plugin</artifactId>-->
+        <!--            </plugin>-->
+        <!--            <plugin>-->
+        <!--                <artifactId>maven-compiler-plugin</artifactId>-->
+        <!--&lt;!&ndash;                <version>${maven-compiler-plugin.version}</version>&ndash;&gt;-->
+        <!--                <configuration>-->
+        <!--                    <source>${java.version}</source>-->
+        <!--                    <target>${java.version}</target>-->
+        <!--                    <encoding>UTF-8</encoding>-->
+        <!--                    <compilerArgs>-->
+        <!--                        <arg>-parameters</arg>-->
+        <!--                    </compilerArgs>-->
+        <!--                </configuration>-->
+        <!--            </plugin>-->
+        <!--        </plugins>-->
     </build>
 
 </project>

@@ -1,283 +1,409 @@
-14:18:55.996 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:18:56.012 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 2044 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
-14:18:56.013 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
-14:18:58.609 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
-14:18:58.610 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:18:58.610 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:18:58.723 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:19:01.065 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
-14:26:28.560 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:26:28.564 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 15772 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
-14:26:28.565 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
-14:26:30.130 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
-14:26:30.130 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:26:30.131 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:26:30.228 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:26:32.221 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
-14:28:01.070 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:28:01.074 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 7432 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
-14:28:01.075 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
-14:28:02.189 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
-14:28:02.190 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:28:02.190 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:28:02.275 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:28:04.209 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
-14:29:50.079 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:29:50.086 [main] INFO  c.l.a.LjAdminApplication - [logStarting,55] - Starting LjAdminApplication using Java 1.8.0_101 on g的联想电脑 with PID 18924 (D:\idea-project\lj-shopmall\lj-modules\lj-admin\target\classes started by jh in D:\idea-project\lj-shopmall)
-14:29:50.087 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
-14:29:51.088 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
-14:29:51.090 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:29:51.090 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:29:51.155 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:29:52.877 [main] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
-14:30:49.170 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:30:50.168 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:30:51.149 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:30:51.150 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:30:51.150 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:30:51.261 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:30:53.581 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:30:53.764 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:30:54.087 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.146 seconds (JVM running for 7.439)
-14:30:54.089 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:30:54.090 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:30:54.090 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:31:52.133 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-14:33:29.816 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:33:30.492 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:33:31.209 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:33:31.210 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:33:31.210 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:33:31.368 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:33:33.405 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:33:33.440 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:33:33.872 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 4.858 seconds (JVM running for 5.662)
-14:33:33.878 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:33:33.878 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:33:33.879 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:34:21.525 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:34:22.602 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:34:23.494 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:34:23.495 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:34:23.495 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:34:23.689 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:34:25.781 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:34:25.805 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:34:26.116 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.018 seconds (JVM running for 7.748)
-14:34:26.121 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:34:26.121 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:34:26.121 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:37:01.485 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:37:02.495 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:37:03.352 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:37:03.353 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:37:03.353 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:37:03.546 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:37:05.530 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:37:05.552 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:37:05.892 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 5.602 seconds (JVM running for 6.916)
-14:37:05.899 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:37:05.900 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:37:05.900 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:39:32.026 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:39:33.101 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:39:33.961 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:39:33.962 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:39:33.962 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:39:34.160 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:39:36.123 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:39:36.145 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:39:36.453 [main] INFO  c.l.a.c.NacosConfigConfiguration - [test,38] - Init Test1
-14:39:36.459 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 5.808 seconds (JVM running for 7.106)
-14:39:36.464 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:39:36.464 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:39:36.465 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:39:57.055 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-14:41:15.865 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:41:16.814 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:41:17.684 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:41:17.685 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:41:17.685 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:41:17.889 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:41:19.991 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:41:20.012 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:41:20.334 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 5.414 seconds (JVM running for 6.229)
-14:41:20.338 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:41:20.338 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:41:20.338 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:41:34.180 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-14:41:57.207 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:41:58.193 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:41:59.084 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:41:59.085 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:41:59.085 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:41:59.271 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:42:01.219 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:42:01.241 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:42:01.534 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 5.513 seconds (JVM running for 7.462)
-14:42:01.539 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:42:01.539 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:42:01.540 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:42:54.994 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-14:57:45.215 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-14:57:46.236 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-14:57:47.132 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-14:57:47.133 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-14:57:47.133 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-14:57:47.357 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-14:57:49.694 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-14:57:49.716 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-14:57:50.009 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.398 seconds (JVM running for 7.793)
-14:57:50.013 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-14:57:50.013 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-14:57:50.013 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-14:57:53.555 [http-nio-9220-exec-1] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-14:58:03.439 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-15:29:29.867 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:29:31.047 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:29:32.105 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:29:32.106 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:29:32.106 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:29:32.334 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:29:34.581 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:29:34.606 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:29:34.941 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.364 seconds (JVM running for 7.897)
-15:29:34.945 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:29:34.945 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:29:34.946 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:34:36.442 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:34:37.477 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:34:38.530 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:34:38.531 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:34:38.531 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:34:38.778 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:34:41.197 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:34:41.222 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:34:41.568 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 6.397 seconds (JVM running for 7.911)
-15:34:41.573 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:34:41.574 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:34:41.574 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:37:17.495 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:37:18.177 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:37:18.926 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:37:18.926 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:37:18.927 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:37:19.021 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:37:21.111 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:37:21.132 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:37:21.439 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 4.738 seconds (JVM running for 5.556)
-15:37:27.976 [http-nio-9220-exec-1] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-15:38:26.481 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:38:27.217 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:38:28.159 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:38:28.160 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:38:28.160 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:38:28.261 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:38:30.864 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:38:30.886 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:38:31.205 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 5.527 seconds (JVM running for 6.338)
-15:38:31.209 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:38:31.210 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:38:31.210 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:38:39.872 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:38:40.900 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:38:41.813 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:38:41.814 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:38:41.814 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:38:42.024 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:38:46.260 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:38:46.332 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:38:47.528 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 8.925 seconds (JVM running for 10.289)
-15:38:47.543 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:38:47.545 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:38:47.547 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:38:51.800 [http-nio-9220-exec-1] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-15:39:02.090 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-15:40:53.398 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:40:54.793 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:40:56.083 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:40:56.084 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:40:56.084 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:40:56.373 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:40:59.150 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:40:59.177 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:40:59.587 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.955 seconds (JVM running for 9.966)
-15:40:59.594 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:40:59.595 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:40:59.596 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:41:13.847 [com.alibaba.nacos.client.Worker.longPolling.fixed-127.0.0.1_8847] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-0} closing ...
-15:41:46.134 [http-nio-9220-exec-1] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-15:42:30.365 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:42:31.681 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:42:32.912 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:42:32.913 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:42:32.913 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:42:33.170 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:42:35.779 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:42:35.807 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:42:36.220 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.481 seconds (JVM running for 8.982)
-15:42:36.225 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:42:36.226 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:42:36.226 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:48:12.365 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:48:13.704 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:48:15.106 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:48:15.107 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:48:15.107 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:48:15.244 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:48:17.904 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:48:17.932 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:48:18.333 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.536 seconds (JVM running for 9.165)
-15:48:18.339 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:48:18.339 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:48:18.339 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:52:56.571 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:52:57.802 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:52:58.909 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:52:58.910 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:52:58.910 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:52:59.038 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:53:01.938 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:53:01.965 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:53:02.358 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.354 seconds (JVM running for 9.012)
-15:53:02.365 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:53:02.366 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:53:02.367 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-15:55:32.461 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-15:55:33.787 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-15:55:35.036 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-15:55:35.036 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-15:55:35.037 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-15:55:35.162 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-15:55:37.966 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-15:55:37.994 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-15:55:38.398 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.484 seconds (JVM running for 9.153)
-15:55:38.403 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-15:55:38.404 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-15:55:38.404 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-16:00:16.970 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-16:00:18.208 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-16:00:19.360 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-16:00:19.361 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-16:00:19.362 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-16:00:19.616 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-16:00:22.154 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-16:00:22.180 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-16:00:22.613 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 7.29 seconds (JVM running for 8.996)
-16:00:22.619 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-16:00:22.620 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-16:00:22.621 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-16:07:28.437 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
-16:07:30.158 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
-16:07:31.350 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
-16:07:31.351 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
-16:07:31.351 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
-16:07:31.629 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
-16:07:34.473 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
-16:07:34.517 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
-16:07:34.960 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 8.626 seconds (JVM running for 10.423)
-16:07:34.965 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
-16:07:34.966 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
-16:07:34.967 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
-16:07:34.967 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
-16:07:34.967 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+14:25:54.236 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:25:54.262 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:25:54.402 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+14:25:56.385 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+14:25:57.817 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:25:58.130 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+14:25:59.907 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+14:25:59.909 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+14:25:59.910 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+14:25:59.913 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+14:25:59.915 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+14:26:00.456 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:26:00.457 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+14:26:00.457 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:26:00.458 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:26:00.459 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:26:00.484 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+14:26:03.608 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+14:26:03.612 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:26:03.613 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+14:26:04.623 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:26:11.677 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" qosEnable="false" hostname="g的联想电脑" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+14:26:11.692 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+14:26:11.705 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+14:26:11.731 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+14:26:12.584 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+14:26:12.625 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+14:26:13.436 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 22.134 seconds (JVM running for 25.281)
+14:26:13.441 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+14:26:13.443 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+14:26:13.443 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+14:26:13.443 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+14:26:13.444 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+14:26:13.444 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+14:26:13.445 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+14:26:13.445 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+14:26:13.445 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+14:26:13.447 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+14:26:13.447 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+14:28:40.406 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+14:28:49.937 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:28:49.946 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:28:50.057 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+14:28:50.856 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+14:28:51.452 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:28:51.728 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+14:28:53.205 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+14:28:53.207 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+14:28:53.208 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+14:28:53.211 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+14:28:53.212 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+14:28:53.738 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:28:53.739 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+14:28:53.741 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:28:53.741 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:28:53.742 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:28:53.756 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+14:28:55.970 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+14:28:55.973 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:28:55.974 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+14:28:56.287 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:29:01.432 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+14:29:01.445 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+14:29:01.454 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+14:29:01.476 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+14:29:02.319 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+14:29:02.355 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+14:29:03.124 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 15.78 seconds (JVM running for 17.813)
+14:29:03.131 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+14:29:03.133 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+14:29:03.133 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+14:29:03.133 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+14:29:03.133 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+14:29:03.134 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+14:29:03.134 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+14:29:03.134 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+14:29:03.134 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+14:29:03.135 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+14:29:03.135 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+14:33:19.595 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+14:33:29.509 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:33:29.519 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:33:29.630 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+14:33:30.582 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+14:33:31.277 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:33:31.559 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+14:33:33.705 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+14:33:33.708 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+14:33:33.710 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+14:33:33.714 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+14:33:33.715 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+14:33:34.364 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:33:34.366 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+14:33:34.367 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:33:34.367 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:33:34.368 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:33:34.404 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+14:33:38.092 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+14:33:38.094 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:33:38.095 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+14:33:38.534 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:33:44.458 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+14:33:44.472 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+14:33:44.482 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+14:33:44.510 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+14:33:45.385 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+14:33:45.417 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+14:33:46.188 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 19.457 seconds (JVM running for 22.353)
+14:33:46.194 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+14:33:46.195 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+14:33:46.195 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+14:33:46.196 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+14:33:46.196 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+14:33:46.196 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+14:33:46.197 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+14:33:46.197 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+14:33:46.197 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+14:33:46.198 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+14:33:46.198 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+14:33:50.435 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+14:33:58.109 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+14:33:58.120 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:33:58.225 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+14:33:59.108 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+14:33:59.739 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+14:33:59.986 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+14:34:01.515 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+14:34:01.518 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+14:34:01.519 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+14:34:01.521 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+14:34:01.522 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+14:34:02.010 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:34:02.011 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+14:34:02.011 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:34:02.012 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:34:02.013 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+14:34:02.031 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+14:34:04.375 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+14:34:04.376 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+14:34:04.377 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+14:34:04.579 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+14:34:09.479 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" qosEnable="false" hostname="g的联想电脑" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+14:34:09.491 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+14:34:09.501 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+14:34:09.520 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+14:34:10.292 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+14:34:10.324 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+14:34:11.051 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 15.685 seconds (JVM running for 17.728)
+14:34:11.057 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+14:34:11.059 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+14:34:11.059 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+14:34:11.060 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+14:34:11.060 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+14:34:11.060 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+14:34:11.060 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+14:34:11.060 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+14:34:11.061 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+14:34:11.061 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+14:34:11.062 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+15:12:05.921 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+15:39:07.931 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:39:07.942 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:39:08.070 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:39:08.969 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+15:39:09.653 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:39:09.951 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:39:11.393 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:39:11.395 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:39:11.396 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:39:11.399 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:39:11.401 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:39:11.884 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:39:11.884 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:39:11.885 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:39:11.886 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:39:11.886 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:39:11.903 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:39:14.457 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+15:39:14.459 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:39:14.460 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:39:14.788 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:39:21.224 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+15:39:21.245 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+15:39:21.258 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+15:39:21.289 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+15:39:26.374 [main] INFO  c.a.c.s.b.r.i.i.RocketMQInboundChannelAdapter - [info,292] - started com.alibaba.cloud.stream.binder.rocketmq.integration.inbound.RocketMQInboundChannelAdapter@70700b8a
+15:39:26.377 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+15:39:26.407 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+15:39:27.246 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 22.368 seconds (JVM running for 24.713)
+15:39:27.255 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+15:39:27.256 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+15:39:27.257 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+15:39:27.257 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+15:39:27.257 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+15:39:27.257 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+15:39:27.258 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+15:39:27.258 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+15:39:27.258 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+15:39:27.259 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+15:39:27.260 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+15:42:39.407 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+15:42:47.127 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+15:42:47.139 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:42:47.289 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+15:42:48.389 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+15:42:49.276 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+15:42:49.619 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+15:42:51.011 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+15:42:51.012 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+15:42:51.013 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+15:42:51.015 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+15:42:51.016 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+15:42:51.379 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:42:51.380 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+15:42:51.380 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:42:51.381 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:42:51.382 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+15:42:51.396 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+15:42:53.092 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+15:42:53.093 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+15:42:53.093 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+15:42:53.288 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+15:42:58.130 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+15:42:58.141 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+15:42:58.151 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+15:42:58.170 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+15:43:02.356 [main] INFO  c.a.c.s.b.r.i.i.RocketMQInboundChannelAdapter - [info,292] - started com.alibaba.cloud.stream.binder.rocketmq.integration.inbound.RocketMQInboundChannelAdapter@62c53685
+15:43:02.359 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+15:43:02.382 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+15:43:02.948 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 18.556 seconds (JVM running for 20.668)
+15:43:02.952 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+15:43:02.953 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+15:43:02.953 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+15:43:02.954 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+15:43:02.954 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+15:43:02.954 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+15:43:02.954 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+15:43:02.955 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+15:43:02.955 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+15:43:02.955 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+15:43:02.956 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+16:24:58.924 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+16:25:08.429 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:25:08.450 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:25:08.645 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:25:09.811 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+16:25:10.780 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:25:11.266 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:25:13.335 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:25:13.336 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:25:13.338 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:25:13.343 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:25:13.345 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:25:13.881 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:25:13.881 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:25:13.882 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:25:13.883 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:25:13.884 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:25:13.910 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:25:15.851 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+16:25:15.852 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:25:15.853 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:25:16.110 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:25:21.459 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:25:21.471 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+16:25:21.484 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+16:25:21.511 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+16:25:25.647 [main] INFO  c.a.c.s.b.r.i.i.RocketMQInboundChannelAdapter - [info,292] - started com.alibaba.cloud.stream.binder.rocketmq.integration.inbound.RocketMQInboundChannelAdapter@67ecf7ed
+16:25:25.649 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+16:25:25.670 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+16:25:26.215 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 21.382 seconds (JVM running for 24.166)
+16:25:26.220 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+16:25:26.222 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+16:25:26.222 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+16:25:26.223 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+16:25:26.223 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+16:25:26.223 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+16:25:26.223 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+16:25:26.223 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+16:25:26.224 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+16:25:26.225 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+16:25:26.225 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+16:28:11.473 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+16:30:24.761 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:30:24.772 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:30:24.999 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:30:26.311 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+16:30:28.443 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:30:28.817 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:30:30.533 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:30:30.535 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:30:30.537 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:30:30.539 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:30:30.541 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:30:31.021 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:30:31.022 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:30:31.022 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:30:31.023 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:30:31.024 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:30:31.039 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:30:33.416 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+16:30:33.418 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:30:33.419 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:30:33.733 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:30:42.857 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" qosEnable="false" hostname="g的联想电脑" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:30:42.887 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+16:30:42.907 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+16:30:42.947 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+16:30:48.263 [main] INFO  c.a.c.s.b.r.i.i.RocketMQInboundChannelAdapter - [info,292] - started com.alibaba.cloud.stream.binder.rocketmq.integration.inbound.RocketMQInboundChannelAdapter@16a499d1
+16:30:48.268 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+16:30:48.304 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+16:30:49.143 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 26.992 seconds (JVM running for 30.148)
+16:30:49.148 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+16:30:49.150 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+16:30:49.150 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+16:30:49.151 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+16:30:49.151 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+16:30:49.151 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+16:30:49.152 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+16:30:49.153 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+16:30:49.154 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+16:30:49.155 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+16:30:49.155 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
+16:41:21.987 [DubboShutdownHook] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$release$2,175] -  [Dubbo] Current Spring Boot Application is about to shutdown...
+16:41:45.180 [main] INFO  o.a.d.s.b.c.e.WelcomeLogoApplicationListener - [onApplicationEvent,63] - 
+
+ :: Dubbo Spring Boot (v2.7.15) : https://github.com/apache/dubbo-spring-boot-project
+ :: Dubbo (v2.7.15) : https://github.com/apache/dubbo
+ :: Discuss group : dev@dubbo.apache.org
+
+16:41:45.191 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:41:45.344 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+16:41:46.523 [pool-2-thread-1] INFO  o.a.d.s.b.c.e.AwaitingNonWebApplicationListener - [lambda$await$0,159] -  [Dubbo] Current Spring Boot Application is await...
+16:41:47.418 [main] INFO  o.a.d.s.b.c.e.OverrideDubboConfigApplicationListener - [onApplicationEvent,69] - Dubbo Config was overridden by externalized configuration {dubbo.application.name=lj-admin, dubbo.application.qos-enable=false, dubbo.config.multiple=true}
+16:41:47.847 [main] INFO  c.l.a.LjAdminApplication - [logStartupProfileInfo,641] - The following profiles are active: local
+16:41:49.128 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.ReferenceAnnotationBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [referenceAnnotationBeanPostProcessor] has been registered.
+16:41:49.129 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.annotation.DubboConfigAliasPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigAliasPostProcessor] has been registered.
+16:41:49.131 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.context.DubboApplicationListenerRegistrar]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboApplicationListenerRegister] has been registered.
+16:41:49.133 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigDefaultPropertyValueBeanPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigDefaultPropertyValueBeanPostProcessor] has been registered.
+16:41:49.134 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [org.apache.dubbo.config.spring.beans.factory.config.DubboConfigEarlyRegistrationPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [dubboConfigEarlyRegistrationPostProcessor] has been registered.
+16:41:49.527 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ApplicationConfig#0, content : Root bean: class [org.apache.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:41:49.528 [main] INFO  c.a.s.u.BeanRegistrar - [registerInfrastructureBean,67] - The Infrastructure bean definition [Root bean: class [com.alibaba.spring.beans.factory.annotation.ConfigurationBeanBindingPostProcessor]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=nullwith name [configurationBeanBindingPostProcessor] has been registered.
+16:41:49.529 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.RegistryConfig#0, content : Root bean: class [org.apache.dubbo.config.RegistryConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:41:49.530 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProtocolConfig#0, content : Root bean: class [org.apache.dubbo.config.ProtocolConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:41:49.531 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingRegistrar - [registerConfigurationBean,139] - The configuration bean definition [name : org.apache.dubbo.config.ProviderConfig#0, content : Root bean: class [org.apache.dubbo.config.ProviderConfig]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] has been registered.
+16:41:49.548 [main] INFO  o.a.d.c.s.b.f.c.DubboConfigEarlyRegistrationPostProcessor - [registryConfigEarlyInitializationPostProcessor,91] - DubboConfigEarlyInitializationPostProcessor has bean registered
+16:41:53.191 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9220"]
+16:41:53.195 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:41:53.196 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+16:41:53.778 [main] INFO  o.a.c.c.C.[.[.[/lj-admin] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:42:07.584 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:application name="lj-admin" hostname="g的联想电脑" qosEnable="false" />] have been binding by the configuration properties [{name=lj-admin, qos-enable=false}]
+16:42:07.614 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [<dubbo:registry address="nacos://127.0.0.1:8847" protocol="nacos" port="8847" />] have been binding by the configuration properties [{address=nacos://127.0.0.1:8847}]
+16:42:07.634 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProtocolConfig{name='dubbo', host='null', port=-1, contextpath='null', threadpool='null', threadname='null', corethreads=null, threads=null, iothreads=null, alive=null, queues=null, accepts=10, codec='null', serialization='null', charset='null', payload=null, buffer=null, heartbeat=null, accesslog='null', transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', register=null, keepAlive=null, optimizer='null', extension='null', parameters=null, isDefault=null, sslEnabled=null}] have been binding by the configuration properties [{name=dubbo, port=-1, accepts=10}]
+16:42:07.695 [main] INFO  c.a.s.b.f.a.ConfigurationBeanBindingPostProcessor - [bindConfigurationBean,159] - The configuration bean [ProviderConfig{host='null', port=null, contextpath='null', threadpool='fixed', threadname='null', threads=10, iothreads=null, alive=null, queues=null, accepts=10, codec='null', charset='null', payload=null, buffer=null, transporter='null', exchanger='null', dispatcher='null', networker='null', server='null', client='null', telnet='null', prompt='null', status='null', wait=null', isDefault=null}] have been binding by the configuration properties [{threads=10, threadpool=fixed, loadbalance=roundrobin, accepts=10}]
+16:42:14.037 [main] INFO  c.a.c.s.b.r.i.i.RocketMQInboundChannelAdapter - [info,292] - started com.alibaba.cloud.stream.binder.rocketmq.integration.inbound.RocketMQInboundChannelAdapter@4cfe9594
+16:42:14.039 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9220"]
+16:42:14.062 [main] INFO  c.a.c.n.r.NacosServiceRegistry - [register,75] - nacos registry, DEFAULT_GROUP lj-admin 168.168.28.132:9220 register finished
+16:42:14.497 [main] INFO  c.l.a.LjAdminApplication - [logStarted,61] - Started LjAdminApplication in 32.213 seconds (JVM running for 34.342)
+16:42:14.501 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin-local.yml+DEFAULT_GROUP
+16:42:14.501 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin-local.yml, group=DEFAULT_GROUP, cnt=1
+16:42:14.502 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin-local.yml, group=DEFAULT_GROUP
+16:42:14.502 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin+DEFAULT_GROUP
+16:42:14.502 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin, group=DEFAULT_GROUP, cnt=1
+16:42:14.502 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin, group=DEFAULT_GROUP
+16:42:14.502 [main] INFO  c.a.n.c.c.i.ClientWorker - [addCacheDataIfAbsent,169] - [fixed-127.0.0.1_8847] [subscribe] lj-admin.yml+DEFAULT_GROUP
+16:42:14.502 [main] INFO  c.a.n.c.c.i.CacheData - [addListener,92] - [fixed-127.0.0.1_8847] [add-listener] ok, tenant=, dataId=lj-admin.yml, group=DEFAULT_GROUP, cnt=1
+16:42:14.502 [main] INFO  c.a.c.n.r.NacosContextRefresher - [registerNacosListenersForApplications,105] - listening config: dataId=lj-admin.yml, group=DEFAULT_GROUP
+16:42:14.503 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,48] - 部署环境->local
+16:42:14.503 [main] INFO  c.l.a.LjAdminApplication - [printConfigInfo,53] - nacos注册地址->127.0.0.1:8847
